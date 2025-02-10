@@ -1,4 +1,16 @@
-# Lipas-API
+# Lipas-API V1
+
+> **⚠️ Important Notice**
+> 
+> This documentation describes LIPAS API V1, which was created in 2017. For the latest API versions (V2 and newer) and up-to-date documentation, please visit:
+> 
+> 🔗 [https://api.lipas.fi](https://api.lipas.fi)
+>
+> While V1 continues to be maintained for backwards compatibility, it is in feature freeze and no new functionality will be added. We recommend using the latest API version for new implementations.
+>
+> The V1 documentation below remains available for existing integrations.
+
+## README
 
 REST-service for Open data of Finnish sports-places
 
